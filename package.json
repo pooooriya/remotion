@@ -27,6 +27,7 @@
 		"prettier": "^2.2.1",
 		"prettier-plugin-organize-imports": "^1.1.1",
 		"react": "^17.0.1",
+		"react-dom": "^18.2.0",
 		"remotion": "^2.5.2",
 		"styled-components": "^5.3.3",
 		"svg-path-properties": "^1.0.11",
